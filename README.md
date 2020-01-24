@@ -1,5 +1,5 @@
 # Sprite-Sheet-Animation
-Sprite Sheet Animation Using Shader
+Sprite Sheet Animation Using Shader Or Script
 
 <img src="Assets/SheetAnimation/Sprite/Explosion.png" align="left" height="200" width="300" >
 
