@@ -5,4 +5,4 @@ Sprite Sheet Animation Using Shader Or Script
 
 ![Explostion](Explostion.gif)
 
-[Shader File](https://github.com/virendra531/Sprite-Sheet-Animation/blob/master/Assets/SheetAnimation/Shader/FlipBook.shader)
+[Shader File](Assets/SheetAnimation/Shader/FlipBook.shader)
